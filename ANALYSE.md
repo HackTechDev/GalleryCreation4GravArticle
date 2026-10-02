@@ -1,6 +1,10 @@
 # Analyse de `createGallery.py`
 
-Analyse du 2 octobre 2026. Le script est propre : bien découpé, idempotent et documenté. Il reste un vrai bug de confidentialité et quelques points fragiles.
+Analyse du 2 octobre 2026.
+
+> **État : toutes les corrections ci-dessous ont été appliquées le 3 octobre 2026.** Pour le point « Chemin dans le README », une copie identique du script se trouve à la racine de Grav (`metalhorreur.fr/`) : le README indique maintenant les deux façons de lancer le script.
+
+ Le script est propre : bien découpé, idempotent et documenté. Il reste un vrai bug de confidentialité et quelques points fragiles.
 
 ## Ce que fait le script
 
